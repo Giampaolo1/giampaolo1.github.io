@@ -1,8 +1,12 @@
-$primary-color: #444;
-$secondary-color: #ee801a;
+$primary-color: white;
+$secondary-color: black;
 $show-home-image: true;
 $home-image: url(../img/primary-bg.jpg);
 $background-opacity: 0.8;
+
+// Source - https://stackoverflow.com/a
+// Posted by Dhiresh Jain
+// Retrieved 2026-01-21, License - CC BY-SA 4.0
 
 @mixin easeOut {
   transition: all 0.5s ease-out;

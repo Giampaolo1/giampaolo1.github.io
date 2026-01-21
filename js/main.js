@@ -68,6 +68,7 @@ function printGraph(){
                   "#35feff",
       
                 ],
+                
                 //  borderColor: [
                 //
                 //    "#e7d184",
@@ -119,15 +120,6 @@ function printGraph(){
             }
         }
     });
-
-    // IDEA: Change language to the validate output
-
-      // $("form").validate({
-      //   lang: "en"
-      // });
-
-    // $("form").validator({ lang: 'en' });
-
 }
 
 $(document).ready(init);
