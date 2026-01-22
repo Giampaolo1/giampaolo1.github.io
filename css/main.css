@@ -402,8 +402,8 @@ main {
     transform: translate3d(100%, 0, 0); }
 
     .menu-branding .portrait {
-      background: url("https: //drive.google.com/file/d/1edWwYXLWb5-ZLdX3bnrGTIzbGQyqqzQz/view?usp=sharing");
-      width: 150px;
+    background: url("../img/foto.jpg");
+          width: 150px;
       height: 150px;
       background-repeat: no-repeat;
       background-position: center;
