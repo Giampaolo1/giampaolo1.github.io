@@ -10,6 +10,7 @@ h5 {
   color: black;
 }
 .menu-btn {
+  display: none;
   position: fixed;
   z-index: 3;
   right: 55px;
